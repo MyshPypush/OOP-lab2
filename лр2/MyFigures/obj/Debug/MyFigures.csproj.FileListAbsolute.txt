@@ -1,0 +1,12 @@
+C:\Users\idavl\source\repos\MyFigures\MyFigures\bin\Debug\MyFigures.dll
+C:\Users\idavl\source\repos\MyFigures\MyFigures\bin\Debug\MyFigures.pdb
+C:\Users\idavl\source\repos\MyFigures\MyFigures\obj\Debug\MyFigures.csproj.AssemblyReference.cache
+C:\Users\idavl\source\repos\MyFigures\MyFigures\obj\Debug\MyFigures.csproj.CoreCompileInputs.cache
+C:\Users\idavl\source\repos\MyFigures\MyFigures\obj\Debug\MyFigures.dll
+C:\Users\idavl\source\repos\MyFigures\MyFigures\obj\Debug\MyFigures.pdb
+D:\КАИ\ООп\лр2\MyFigures\bin\Debug\MyFigures.dll
+D:\КАИ\ООп\лр2\MyFigures\bin\Debug\MyFigures.pdb
+D:\КАИ\ООп\лр2\MyFigures\obj\Debug\MyFigures.csproj.AssemblyReference.cache
+D:\КАИ\ООп\лр2\MyFigures\obj\Debug\MyFigures.csproj.CoreCompileInputs.cache
+D:\КАИ\ООп\лр2\MyFigures\obj\Debug\MyFigures.dll
+D:\КАИ\ООп\лр2\MyFigures\obj\Debug\MyFigures.pdb
